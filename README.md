@@ -45,10 +45,11 @@ AirSwipe is a computer vision-powered presentation controller that allows you to
    ## Usage
 
    1. Run the script:
+      
       ```
       python AirSwipe.py
       ```
-   2. Exit by pressing **Ctrl/Command + Q** in the video feed
+   3. Exit by pressing **Ctrl/Command + Q** in the video feed
   
    # License
     MIT License. See LICENSE for details.
