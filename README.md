@@ -52,7 +52,7 @@ AirSwipe is a computer vision-powered presentation controller that allows you to
    - Exit by pressing **Ctrl/Command + Q** in the video feed
   
    # License
-    MIT License. See LICENSE for details.
+    MIT License. See [LICENSE](https://github.com/N91489/AirSwipe/blob/main/LICENSE) for details.
 
 
 
